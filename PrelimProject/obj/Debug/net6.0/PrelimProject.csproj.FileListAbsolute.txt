@@ -1,0 +1,15 @@
+C:\Users\Bernard Sapida\source\repos\PrelimProject\PrelimProject\bin\Debug\net6.0\PrelimProject.exe
+C:\Users\Bernard Sapida\source\repos\PrelimProject\PrelimProject\bin\Debug\net6.0\PrelimProject.deps.json
+C:\Users\Bernard Sapida\source\repos\PrelimProject\PrelimProject\bin\Debug\net6.0\PrelimProject.runtimeconfig.json
+C:\Users\Bernard Sapida\source\repos\PrelimProject\PrelimProject\bin\Debug\net6.0\PrelimProject.dll
+C:\Users\Bernard Sapida\source\repos\PrelimProject\PrelimProject\bin\Debug\net6.0\PrelimProject.pdb
+C:\Users\Bernard Sapida\source\repos\PrelimProject\PrelimProject\obj\Debug\net6.0\PrelimProject.csproj.AssemblyReference.cache
+C:\Users\Bernard Sapida\source\repos\PrelimProject\PrelimProject\obj\Debug\net6.0\PrelimProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bernard Sapida\source\repos\PrelimProject\PrelimProject\obj\Debug\net6.0\PrelimProject.AssemblyInfoInputs.cache
+C:\Users\Bernard Sapida\source\repos\PrelimProject\PrelimProject\obj\Debug\net6.0\PrelimProject.AssemblyInfo.cs
+C:\Users\Bernard Sapida\source\repos\PrelimProject\PrelimProject\obj\Debug\net6.0\PrelimProject.csproj.CoreCompileInputs.cache
+C:\Users\Bernard Sapida\source\repos\PrelimProject\PrelimProject\obj\Debug\net6.0\PrelimProject.dll
+C:\Users\Bernard Sapida\source\repos\PrelimProject\PrelimProject\obj\Debug\net6.0\refint\PrelimProject.dll
+C:\Users\Bernard Sapida\source\repos\PrelimProject\PrelimProject\obj\Debug\net6.0\PrelimProject.pdb
+C:\Users\Bernard Sapida\source\repos\PrelimProject\PrelimProject\obj\Debug\net6.0\PrelimProject.genruntimeconfig.cache
+C:\Users\Bernard Sapida\source\repos\PrelimProject\PrelimProject\obj\Debug\net6.0\ref\PrelimProject.dll
